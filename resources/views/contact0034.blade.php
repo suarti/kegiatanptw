@@ -8,7 +8,7 @@
     <h3>Contact Us</h3>
     <table border="1">
         <tr>
-            <td><img src="{{asset ('image/foto.jpg')}}" style="width: 200px"></td>
+            <td><img src="{{asset ('img/foto-profile.jpg')}}" style="width: 200px"></td>
             <td>
                 <p>Nama : Suarti</p>
                 <p>NBI : 1461900034r</p>
