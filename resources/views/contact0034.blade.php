@@ -11,7 +11,7 @@
             <td><img src="{{asset ('img/foto-profile.jpg')}}" style="width: 200px"></td>
             <td>
                 <p>Nama : Suarti</p>
-                <p>NBI : 1461900034r</p>
+                <p>NBI : 1461900034</p>
                 <p>Kontak : 085925732215</p>
                 <p>Email : suarti35@gmail.com</p>
                 <p>Instagram : @de_suarti15</p>
