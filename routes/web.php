@@ -15,7 +15,8 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('home0034');
+    Route::get('/artikel0034', [HomeController::class, 'artikel']);
+    Route::get('/contact0034', [HomeController::class, 'contact']);
 });
 
-Route::get('/artikel0034', [HomeController::class, 'artikel']);
-Route::get('/contact0034', [HomeController::class, 'contact']);
+
